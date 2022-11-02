@@ -5,3 +5,7 @@ fn main() {
 fn f1() {
     println("f1");
 }
+
+fn f2() {
+    println("f2");
+}
